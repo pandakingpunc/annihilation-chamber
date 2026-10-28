@@ -2,6 +2,7 @@
   "name": "annihilation-chamber",
   "private": true,
   "version": "0.0.0",
+  "author": "Mustafa Karatüm (https://orcid.org/0009-0006-7053-2872)",
   "type": "module",
   "scripts": {
     "dev": "vite",

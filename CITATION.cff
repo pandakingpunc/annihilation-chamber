@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+title: "Annihilation Chamber"
+abstract: >-
+  An interactive 3D browser simulation of matter–antimatter annihilation.
+  Electrons and positrons (or protons and antiprotons) move under an N-body
+  Coulomb force and a magnetic field until pairs annihilate into back-to-back
+  gamma photons or charge-conserving pion showers. Includes PET-style detector
+  hits with lines of response, bubble-chamber pion tracks, and a results panel
+  with the E = mc² energy accounting. English and Turkish interfaces.
+authors:
+  - family-names: Karatüm
+    given-names: Mustafa
+    orcid: "https://orcid.org/0009-0006-7053-2872"
+date-released: 2026-10-28
+repository-code: "https://github.com/pandakingpunc/annihilation-chamber"
+url: "https://pandakingpunc.github.io/annihilation-chamber/"
+keywords:
+  - antimatter
+  - annihilation
+  - positron
+  - PET
+  - particle physics
+  - simulation

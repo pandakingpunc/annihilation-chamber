@@ -40,3 +40,9 @@ This produces a single self-contained `dist/index.html` that you can open direct
 | Space | Start / pause |
 | R | Reset |
 | Drag / scroll | Orbit / zoom the camera |
+
+## Author
+
+Mustafa Karatüm · ORCID [0009-0006-7053-2872](https://orcid.org/0009-0006-7053-2872)
+
+Citation metadata is in [CITATION.cff](CITATION.cff).
