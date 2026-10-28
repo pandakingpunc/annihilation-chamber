@@ -2,6 +2,8 @@
 
 An interactive 3D matter–antimatter annihilation simulator built with React, three.js and Vite. English by default, with a Turkish mode (EN | TR toggle).
 
+**Live demo:** https://pandakingpunc.github.io/annihilation-chamber/
+
 Matter and antimatter start in opposite hemispheres of a vacuum chamber, held apart by a separator. Remove it and opposite charges pull together under an N-body Coulomb force while a magnetic field bends their paths. When a pair gets close enough, it annihilates.
 
 ## Features
