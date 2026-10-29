@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "author": "Mustafa Karatüm (https://orcid.org/0009-0006-7053-2872)",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -13,6 +13,7 @@ authors:
   - family-names: Karatüm
     given-names: Mustafa
     orcid: "https://orcid.org/0009-0006-7053-2872"
+license: MIT
 date-released: 2026-10-28
 repository-code: "https://github.com/pandakingpunc/annihilation-chamber"
 url: "https://pandakingpunc.github.io/annihilation-chamber/"
